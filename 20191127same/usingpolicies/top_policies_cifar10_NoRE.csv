@@ -1,0 +1,6 @@
+aug1_type,aug1_magnitude,aug2_type,aug2_magnitude
+additive-gaussian-noise,0.022,gamma-contrast,0.927
+coarse-dropout,0.042,brighten,0.128
+brighten,0.363,gamma-contrast,0.747
+crop,0.734,shear,0.201
+crop,0.212,invert,0.878

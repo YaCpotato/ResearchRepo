@@ -1,6 +1,0 @@
-trial_no,aug1_type,aug1_magnitude,aug2_type,aug2_magnitude,mean_late_val_acc,expected_accuracy_increase(%)
-48,additive-gaussian-noise,0.795,brighten,0.712,0.142333333,6.8
-,brighten,0.003,shear,0.012,,
-,vertical-flip,0.739,translate-x,0.322,,
-,horizontal-flip,0.208,coarse-dropout,0.475,,
-,translate-y,0.781,coarse-dropout,0.789,,

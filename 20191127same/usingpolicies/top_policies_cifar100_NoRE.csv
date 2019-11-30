@@ -1,0 +1,6 @@
+aug1_type,aug1_magnitude,aug2_type,aug2_magnitude
+add-to-hue-and-saturation,0.445,additive-gaussian-noise,0.008
+gamma-contrast,0.884,vertical-flip,0.875
+additive-gaussian-noise,0.007,shear,0.204
+brighten,0.058,brighten,0.85
+shear,0.054,brighten,0.035

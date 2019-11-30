@@ -1,0 +1,6 @@
+aug1_type,aug1_magnitude,aug2_type,aug2_magnitude
+shear,0.075,translate-x,0.174
+horizontal-flip,0.659,crop,0.09
+horizontal-flip,0.156,emboss,0.022
+coarse-salt-pepper,0.596,fog,0.251
+translate-y,0.033,add-to-hue-and-saturation,0.666

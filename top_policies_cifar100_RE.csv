@@ -1,6 +1,0 @@
-aug1_type,aug1_magnitude,aug2_type,aug2_magnitude,mean_late_val_acc,expected_accuracy_increase(%)
-horizontal-flip,0.894,crop,0.163,0.517666667,6.366666667
-translate-y,0.91,RandomEracing,0.042,,
-invert,0.937,invert,0.484,,
-RandomEracing,0.079,RandomEracing,0.001,,
-emboss,0.015,RandomEracing,0.246,,
