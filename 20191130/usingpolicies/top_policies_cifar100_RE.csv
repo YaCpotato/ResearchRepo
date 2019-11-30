@@ -1,0 +1,6 @@
+aug1_type,aug1_magnitude,aug2_type,aug2_magnitude
+sharpen,0.349,horizontal-flip,0.813
+RandomEracing,0.334,brighten,0.603
+coarse-dropout,0.064,coarse-salt-pepper,0.817
+vertical-flip,0.049,dropout,0.67
+crop,0.538,brighten,0.141

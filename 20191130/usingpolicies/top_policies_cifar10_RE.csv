@@ -1,0 +1,6 @@
+aug1_type,aug1_magnitude,aug2_type,aug2_magnitude,mean_late_val_acc,expected_accuracy_increase(%)
+sharpen,0.731,sharpen,0.564,0.5196666666666667,8.100000000000001
+gamma-contrast,0.527,coarse-dropout,0.774
+shear,0.243,RandomEracing,0.526
+translate-x,0.242,add-to-hue-and-saturation,0.069
+emboss,0.378,sharpen,0.264
